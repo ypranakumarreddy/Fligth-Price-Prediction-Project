@@ -47,6 +47,16 @@ Flights_price_prediction_code.ipynb — Full code, EDA, modeling, and results
 flight_fare.csv — Dataset used (if included)
 Flight_Price_Prediction_Summary.docx — Project write-up (if included)
 # 🚀 Future Improvements
+
 Explore advanced models (e.g., XGBoost, LightGBM)
 Add more features (e.g., holiday/seasonality, demand trends)
 Deploy as a web API or integrate into travel platforms
+
+
+# 💾 Screen Shots
+<img width="703" alt="Screenshot 2025-04-30 at 12 30 32 PM" src="https://github.com/user-attachments/assets/816e787a-4c4a-4511-a912-d44297e7ff49" />
+<img width="702" alt="Screenshot 2025-04-30 at 12 31 19 PM" src="https://github.com/user-attachments/assets/89338354-0fb3-43a2-b3a5-2d6c93edbc2d" />
+<img width="700" alt="Screenshot 2025-04-30 at 12 31 42 PM" src="https://github.com/user-attachments/assets/41c3a01e-3000-46cc-8405-a5015b2fbe78" />
+<img width="629" alt="Screenshot 2025-04-30 at 12 32 16 PM" src="https://github.com/user-attachments/assets/5b0f4187-ccf9-4343-a40d-cb60e40c5b1a" />
+<img width="619" alt="Screenshot 2025-04-30 at 12 32 59 PM" src="https://github.com/user-attachments/assets/3794c705-13a6-481f-bf41-ccf6f4dcfae6" />
+
