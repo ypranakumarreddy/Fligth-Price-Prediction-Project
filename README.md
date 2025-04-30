@@ -44,8 +44,7 @@ This project demonstrates the effectiveness of classical machine learning for pr
 
 # 📁 Files Included
 Flights_price_prediction_code.ipynb — Full code, EDA, modeling, and results
-flight_fare.csv — Dataset used (if included)
-Flight_Price_Prediction_Summary.docx — Project write-up (if included)
+flight_fare.csv
 # 🚀 Future Improvements
 
 Explore advanced models (e.g., XGBoost, LightGBM)
